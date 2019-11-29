@@ -1,0 +1,7 @@
+{
+  "type" : "object",
+  "properties": {
+    "wavefile": { "type": "array" },
+    "sample_rate": { "type": "string" }
+  }
+}
